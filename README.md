@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## IPFind
+Uses https://ipinfo.io/ to get all IP Information
+Developed with new NextJS 14 and NextUI
 
 ## Getting Started
 
