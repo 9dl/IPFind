@@ -1,7 +1,7 @@
 # IPFind
-
-IPFind is a sleek Next.js 14 application developed with NextUI, providing comprehensive IP information using the [ipinfo.io](https://ipinfo.io/) API.
+- IPFind is a sleek Next.js 14 application developed with NextUI, providing comprehensive IP information using the [ipinfo.io](https://ipinfo.io/) API.
 <img src="/image.png" alt="Description of the image" height="500">
+
 ## Quick Start
 
 1. Clone this repository.
